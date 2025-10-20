@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hooked_fullsize2.png" alt="Hooked Logo">
+  <img src="hooked_fullsize2.png" alt="Hooked Logo">
 </p>
 
 # 🎣 Hooked?
